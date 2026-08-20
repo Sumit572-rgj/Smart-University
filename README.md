@@ -5,6 +5,8 @@
 CIT UMS is a highly scalable, custom-built Enterprise Resource Planning (ERP) platform designed to digitize and automate every aspect of modern university campus life. Built from scratch using a bespoke PHP MVC framework, it handles over 70+ interconnected modules ranging from academics to hostel maintenance.
 
 🌐 **Live Demo:** [citums.thsite.top](https://citums.thsite.top)
+App Download Link (Smart University CITUMS) :- https://median.co/share/rdoyllx#apk
+Security Outpass Scanner App Download Link :- https://median.co/share/nmnzpnz#apk
 
 ---
 
